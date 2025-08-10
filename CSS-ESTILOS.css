@@ -988,20 +988,20 @@ textarea .input + .focus-input::after{
 		
 	}
 	
-	 .mapa{
-		width: 500px;
-		 margin: 50px;
-		height: auto;
-		
-		margin-top: 0px;
-	}
+	iframe{
+	float: right;
+	margin-top: 90px;
+	margin-right: 100px;
+	width: 500px;
+	height: 300px;
+}
 	
 	
 	.iconos {
 	width: 280px;
-	text-align: center;
+	text-align:left;
 	margin: auto;
-		margin-top: 250px;
+		margin-top: 100px;
 	display: grid;
 	align-items: center;
 	
@@ -1264,14 +1264,12 @@ align-content: center;
 	
 	/*sub pagina contacto*/
 	
-.mapa{
-width: 100%;
-	padding: 80px;
-	height: auto;
-	margin: 0;
+iframe{
+	float: right;
 	margin-top: 200px;
-	margin-bottom: 80px;
-		
+	text-align: center;
+	width: 550px;
+	height: 350px;
 }
 .iconos {
 	width: 280px;
@@ -1540,13 +1538,12 @@ align-content: center;
 	
 	/*sub pagina contacto*/
 	
-.mapa{
-	width: 100%;
-	height: auto;;
-	padding: 10px;
-	margin:  auto;
+iframe{    
+	text-align: center;	
+margin-right: 30px;
 	margin-top: 200px;
-	margin-bottom: 50px;
+    width: 350px;
+	height: 250px;
 }
 .iconos {
 	width: 230px;
@@ -1608,8 +1605,18 @@ align-content: center;
 	padding-bottom: 70px;
 }
 	
+ .footer .pie {
+	margin-left: 30px;
 
 }
+.footer-text{
+	margin-left: 30px;
+}
+
+}
+
+
+
 .hero{
 	margin-top: 93px;
 	
