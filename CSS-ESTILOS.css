@@ -1076,7 +1076,7 @@ textarea .input + .focus-input::after{
 		
 	}
 	.main{
-		margin-top: 50px;
+		margin-top: 150px;
 	}
 	
 	.main p{
@@ -1128,7 +1128,9 @@ align-content: center;
 	
 	/*sub pagina formacion*/
 
-
+.container{
+	margin-top: 180px;
+}
 	.container img{
 		width: 100%;
 		margin: auto;
@@ -1152,6 +1154,10 @@ align-content: center;
 	}
 
 	/*sub pagina alquiler*/
+
+	.contenedor{
+		margin-top: 180px;
+	}
 	
 .contenedor img{
 	position: relative;
@@ -1350,7 +1356,7 @@ iframe{
 	}
 	.main {
 		width: 100%;
-		margin-top: 0px;
+		margin-top: 150px;
 		
 	}
 	
