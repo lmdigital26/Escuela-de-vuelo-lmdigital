@@ -1129,7 +1129,7 @@ align-content: center;
 	/*sub pagina formacion*/
 
 .container{
-	margin-top: 180px;
+	margin-top: 220px;
 }
 	.container img{
 		width: 100%;
@@ -1156,7 +1156,7 @@ align-content: center;
 	/*sub pagina alquiler*/
 
 	.contenedor{
-		margin-top: 180px;
+		margin-top: 220px;
 	}
 	
 .contenedor img{
@@ -1227,6 +1227,7 @@ align-content: center;
 	 
 }
 .contenido{
+	margin-top: 220px;
 	margin: auto;
 	width: auto;
 	position: relative;
@@ -1271,8 +1272,8 @@ align-content: center;
 	/*sub pagina contacto*/
 	
 iframe{
-	float: right;
-	margin-top: 200px;
+	margin-top: 250px;
+	margin-right: 5git add0px;
 	text-align: center;
 	width: 550px;
 	height: 350px;
